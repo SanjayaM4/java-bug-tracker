@@ -4,7 +4,7 @@ A console-based bug tracking system implemented in Java.
 
 ---
 
-## You Can Run Directly Online Using GitHub Codespaces
+## You Can Run Directly Online Using GitHub Codespaces (You Must be Logged In to a GitHub Account)
 
 ### 1. Open Codespaces
 1. Go to this repository on GitHub  
