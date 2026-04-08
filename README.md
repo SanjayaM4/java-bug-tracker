@@ -14,7 +14,6 @@ A console-based bug tracking system implemented in Java.
 
 GitHub will create a cloud-based VS Code environment with Java preinstalled.
 
----
 
 ### 2. Compile and Run the Program
 
@@ -24,6 +23,8 @@ Once the Codespace launches, run:
 javac *.java
 java Main
 ```
+
+---
 
 ## To Run Locally On Your Own Machine
 
