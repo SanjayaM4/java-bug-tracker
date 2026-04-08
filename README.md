@@ -1,7 +1,6 @@
 # Bug Tracker (Java)
 
 A console-based bug tracking system implemented in Java.  
-Supports adding bugs, storing them in `bug.dat`, and viewing/updating bug history.
 
 ---
 
